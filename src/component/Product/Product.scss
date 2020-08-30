@@ -1,0 +1,28 @@
+.single-product {
+    display: flex;
+    border-bottom: 1px solid #d3d3d3;
+    margin: 10px;
+
+    .product-details {
+        margin-left: 25px;
+
+        .product-header {
+            h3 {
+                text-align: left;
+                color: tomato;
+                font-weight: 400;
+                text-decoration: none;
+                a {
+                    text-align: left;
+                    color: tomato;
+                    font-weight: 400;
+                    text-decoration: none;
+                }
+            }
+        }
+
+        // .product-info {
+        //     display: flex;
+        // }
+    }
+}
